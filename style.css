@@ -1,0 +1,31 @@
+.block-border {
+    width: 250px;
+    height: 800px;
+    border: 2px solid #f66d52; 
+    background: #ccc; 
+    text-align: center;
+  }
+  .linia {
+    border: 2px solid #00ff37;
+  }
+  .linia2 {
+    border: 2px solid blue;
+  }
+  .linia3 {
+    border: 2px solid red;
+  }
+  .block-border2 {
+    width: 5000px;
+    height: 700px;
+    border: 2px solid green;
+    background: honeydew;
+    align-items: center;
+    justify-content: center;
+  }
+  .linia4 {
+    border: 2px solid yellow;
+  }
+  .knopka {
+    text-align: center;
+    color: yellowgreen;
+  }
